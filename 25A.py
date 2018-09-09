@@ -12,7 +12,7 @@ if count >= 2:
     print (a+1)
 else:
     for i in range(n):
-        if int(l[0][i]) %2 !=0:
+        if int(l[0][i]) %2 != 0:
             sum = sum +1
         else :
             b = i
