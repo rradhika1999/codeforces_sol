@@ -1,3 +1,5 @@
+# Question: https://codeforces.com/blog/entry/19700
+
 n=int(input())
 b=[]
 c=0
